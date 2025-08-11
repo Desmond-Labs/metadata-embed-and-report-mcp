@@ -1,0 +1,71 @@
+=================================================================
+ORBIT Metadata Report - Enhanced Simple MCP v2.1
+=================================================================
+Source Image    : restaurant_celebration_me.jpg
+Report Date     : 2025-01-21 15:45:32
+
+🎯 TYPE OF ANALYSIS COMPLETED: LIFESTYLE
+Categories Found: 8 | Total Fields: 14 | Processing Time: 4.2ms
+=================================================================
+
+📊 SCENE OVERVIEW
+-----------------------------------------------------------------
+Setting         : Elegant restaurant interior
+Time Of Day     : Evening
+
+👥 HUMAN ELEMENTS
+-----------------------------------------------------------------
+Number Of People: 6
+Social Dynamics : Family celebration dinner
+Emotional States: Happy, Celebratory, Warm
+
+🌍 ENVIRONMENT
+-----------------------------------------------------------------
+Location Type   : Upscale restaurant
+
+🍽️ KEY OBJECTS
+-----------------------------------------------------------------
+Food Beverage   : Wine glasses, Gourmet dishes
+
+🌅 ATMOSPHERIC ELEMENTS
+-----------------------------------------------------------------
+Lighting Quality: Warm ambient lighting
+Mood            : Intimate and festive
+
+📖 NARRATIVE ANALYSIS
+-----------------------------------------------------------------
+Story           : Special occasion family gathering
+Cultural Context: Modern fine dining culture
+
+📷 PHOTOGRAPHIC ELEMENTS
+-----------------------------------------------------------------
+Composition     : Centered group shot
+
+🎯 MARKETING POTENTIAL
+-----------------------------------------------------------------
+Target Demographic: Affluent families
+Emotional Hooks   : Family bonding, Special moments
+
+
+=================================================================
+RAW JSON DATA (Machine Readable)
+=================================================================
+{
+  "lifestyle_scene_overview_setting": "Elegant restaurant interior",
+  "lifestyle_scene_overview_time_of_day": "Evening",
+  "lifestyle_human_elements_number_of_people": "6",
+  "lifestyle_human_elements_social_dynamics": "Family celebration dinner",
+  "lifestyle_human_elements_emotional_states": "Happy, Celebratory, Warm",
+  "lifestyle_environment_location_type": "Upscale restaurant",
+  "lifestyle_key_objects_food_beverage": "Wine glasses, Gourmet dishes",
+  "lifestyle_atmospheric_elements_lighting_quality": "Warm ambient lighting",
+  "lifestyle_atmospheric_elements_mood": "Intimate and festive",
+  "lifestyle_narrative_analysis_story": "Special occasion family gathering",
+  "lifestyle_narrative_analysis_cultural_context": "Modern fine dining culture",
+  "lifestyle_photographic_elements_composition": "Centered group shot",
+  "lifestyle_marketing_potential_target_demographic": "Affluent families",
+  "lifestyle_marketing_potential_emotional_hooks": "Family bonding, Special moments"
+}
+=================================================================
+END OF METADATA REPORT
+=================================================================

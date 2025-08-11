@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "image-metadata-embed-and-report": {
+      "command": "node",
+      "args": ["/path/to/your/image-metadata-embed-and-report/dist/server.js"],
+      "env": {
+        "SUPABASE_URL": "https://your-project-id.supabase.co",
+        "SUPABASE_ANON_KEY": "your_anon_key_here",
+        "SUPABASE_BUCKET_NAME": "your_storage_bucket_name"
+      },
+      "description": "Image Metadata Embed and Report - XMP metadata with beautiful formatting"
+    }
+  }
+}

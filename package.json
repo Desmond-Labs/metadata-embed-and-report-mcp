@@ -1,0 +1,49 @@
+{
+  "name": "image-metadata-embed-and-report",
+  "version": "1.0.0",
+  "description": "MCP server for XMP metadata embedding with beautiful formatting and smart filename indicators",
+  "type": "module",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "tsx src/server.ts",
+    "clean": "rm -rf dist",
+    "watch": "tsc --watch",
+    "test": "node tests/run-all-tests.js",
+    "test:unit": "node tests/test-filename-suffix.js && node tests/test-enhanced-xmp.js && node tests/test-metadata-report.js",
+    "test:integration": "npm run build && node tests/test-complete-integration.js"
+  },
+  "keywords": [
+    "mcp",
+    "xmp",
+    "metadata",
+    "image-processing",
+    "supabase",
+    "model-context-protocol",
+    "claude"
+  ],
+  "author": "Open Source Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/image-metadata-embed-and-report.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/image-metadata-embed-and-report/issues"
+  },
+  "homepage": "https://github.com/yourusername/image-metadata-embed-and-report#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.3.0",
+    "tsx": "^4.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

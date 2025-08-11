@@ -1,0 +1,52 @@
+ORBIT Metadata Report
+=====================
+Image: restaurant_celebration_me.jpg
+Analysis: LIFESTYLE (8 categories, 14 fields)
+Date: 2025-01-21 15:45:32
+
+Key Metadata by Category:
+-------------------------
+
+📊 SCENE OVERVIEW
+-----------------------------------------------------------------
+Setting        : Elegant restaurant interior
+Time Of Day    : Evening
+
+👥 HUMAN ELEMENTS
+-----------------------------------------------------------------
+Number Of People: 6
+Social Dynamics : Family celebration dinner
+
+🌍 ENVIRONMENT
+-----------------------------------------------------------------
+Location Type: Upscale restaurant
+
+🍽️ KEY OBJECTS
+-----------------------------------------------------------------
+Food Beverage: Wine glasses, Gourmet dishes
+
+🌅 ATMOSPHERIC ELEMENTS
+-----------------------------------------------------------------
+Lighting Quality: Warm ambient lighting
+Mood            : Intimate and festive
+
+📖 NARRATIVE ANALYSIS
+-----------------------------------------------------------------
+Story           : Special occasion family gathering
+Cultural Context: Modern fine dining culture
+
+📷 PHOTOGRAPHIC ELEMENTS
+-----------------------------------------------------------------
+Composition: Centered group shot
+
+🎯 MARKETING POTENTIAL
+-----------------------------------------------------------------
+Target Demographic: Affluent families
+Emotional Hooks   : Family bonding, Special moments
+
+
+Processing Summary:
+------------------
+Processing Time: 4.2ms
+Total Categories: 8
+Total Fields: 14

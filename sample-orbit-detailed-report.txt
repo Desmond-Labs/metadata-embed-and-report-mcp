@@ -1,0 +1,63 @@
+=================================================================
+ORBIT Metadata Report - Enhanced Simple MCP v2.1
+=================================================================
+Source Image    : coworking_space_me.jpg
+Report Date     : 2025-01-21 15:45:32
+
+🎯 TYPE OF ANALYSIS COMPLETED: ORBIT
+Categories Found: 6 | Total Fields: 10 | Processing Time: 2.9ms
+=================================================================
+
+📊 SCENE OVERVIEW
+-----------------------------------------------------------------
+Setting    : Modern co-working space
+Activities : Collaborative work session
+
+👥 HUMAN ELEMENTS
+-----------------------------------------------------------------
+People Count : 4
+Interactions : Professional collaboration
+
+🌍 ENVIRONMENT
+-----------------------------------------------------------------
+Location Type: Contemporary office space
+
+🍽️ KEY OBJECTS
+-----------------------------------------------------------------
+Technology: Laptops, Tablets, Modern monitors
+
+🌅 ATMOSPHERIC ELEMENTS
+-----------------------------------------------------------------
+Lighting Quality: Bright natural lighting
+
+📖 NARRATIVE ANALYSIS
+-----------------------------------------------------------------
+Story Elements: Modern workplace dynamics
+
+📷 PHOTOGRAPHIC ELEMENTS
+-----------------------------------------------------------------
+Composition Style: Wide-angle workspace view
+
+🎯 MARKETING POTENTIAL
+-----------------------------------------------------------------
+Demographics: Young professionals, Tech workers
+
+
+=================================================================
+RAW JSON DATA (Machine Readable)
+=================================================================
+{
+  "orbit_scene_overview_setting": "Modern co-working space",
+  "orbit_scene_overview_activities": "Collaborative work session",
+  "orbit_human_elements_people_count": "4",
+  "orbit_human_elements_interactions": "Professional collaboration",
+  "orbit_environment_location_type": "Contemporary office space",
+  "orbit_key_objects_technology": "Laptops, Tablets, Modern monitors",
+  "orbit_atmospheric_elements_lighting_quality": "Bright natural lighting",
+  "orbit_narrative_analysis_story_elements": "Modern workplace dynamics",
+  "orbit_photographic_elements_composition_style": "Wide-angle workspace view",
+  "orbit_marketing_potential_demographics": "Young professionals, Tech workers"
+}
+=================================================================
+END OF METADATA REPORT
+=================================================================
